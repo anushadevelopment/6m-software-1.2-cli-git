@@ -1,0 +1,44 @@
+
+
+.profile-box{
+    width: 950px;
+    margin: 0px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(228 255 236);
+    
+}
+.left-side{
+    background-color: #8c7d38;
+    margin-top: 30px;
+    padding: 20px;
+    max-width: 80%;
+}
+.right-side{
+    background-color: #8c7d38;
+    color:aliceblue;
+    padding: 50px 100px;
+    max-width: 50%;
+}
+
+.content-left{
+    
+    padding-left: 60px;
+    width: 90%;
+    align-items: center;
+}
+.content-right{
+    color:rgb(55, 113, 164);
+     max-width: 60%;
+
+}
+
+.rit-titl {
+    padding: 10px;
+    border-bottom: 2px solid #CCC;
+    font-size: 1.1rem; }
+
